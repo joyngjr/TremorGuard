@@ -1,11 +1,11 @@
 # TremorGuard
 This is an IOT project built to help monitor the disease progression of patients with Parkinson's Disease.
 
-It is developed by a team of 4 NUS students, who contributed in the following manners:
-Celestine - Searching of datasets and related studies, training of AI models
-Gabriel - Training of AI models, improving accuracy across models
-Khang Hou - Building of web application, setting up internal backend server, training of AI models, overall integration
-Joy - Arduino code for collection and sending of data (embedded systems), setting up Azure IoTHub, 3D modelling and printing of device holder
+It is developed by a team of 4 NUS students, who contributed in the following manners:<br>
+Celestine - Searching of datasets and related studies, training of AI models<br>
+Gabriel - Training of AI models, improving accuracy across models<br>
+Khang Hou - Building of web application, setting up internal backend server, training of AI models, overall integration<br>
+Joy - Arduino code for collection and sending of data (embedded systems), setting up Azure IoTHub, 3D modelling and printing of device holder<br>
 
 ### Client
 ```
