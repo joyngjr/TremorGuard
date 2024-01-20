@@ -1,5 +1,6 @@
 # TremorGuard
-This is an IOT project built to help monitor the disease progression of patients with Parkinson's Disease.
+This is an IOT project built to help monitor the disease progression of patients with Parkinson's Disease.<br>
+A demo of our product can be viewed from [this link](https://www.youtube.com/watch?v=ZfBNp8Ql5Bw)
 
 It is developed by a team of 4 NUS students, who contributed in the following manners:<br>
 Celestine - Searching of datasets and related studies, training of AI models<br>
